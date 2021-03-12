@@ -1,5 +1,5 @@
 # Spectro-Temporal Attention Based Voice Activity Detection (pytorch)
-Pytorch implementation of "spectro-temporal attention-based voice activity detection":https://ieeexplore.ieee.org/document/8933025
+Pytorch implementation of "spectro-temporal attention-based voice activity detection": https://ieeexplore.ieee.org/document/8933025
 
 My implementation of STAM provides slightly better performance compared to the original tensorflow one:
 
